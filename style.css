@@ -1,0 +1,39 @@
+#database {
+    color: green;
+    text-decoration: none;
+    font-size: x-large;
+}
+
+#inf {
+    color: green;
+    text-decoration: none;
+    font-size: x-large;
+}
+
+#yaradan {
+    color: green;
+    text-decoration: none;
+    font-size: x-large;
+}
+
+#database:hover {
+    color: lightblue;
+    text-decoration: none;
+    font-size: xx-large;
+}
+
+#inf:hover {
+    color: lightblue;
+    text-decoration: none;
+    font-size: xx-large;
+}
+
+#yaradan:hover {
+    color: lightblue;
+    text-decoration: none;
+    font-size: xx-large;
+}
+
+body {
+    background-color:  rgba(3, 3, 3, 0.788);
+}
